@@ -1,0 +1,15 @@
+git : Already on 'main'
+At C:\Users\User\Documents\nalar\unggah.ps1:19 char:1
++ git checkout main 2>&1
++ ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Already on 'main':String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+git : From https://github.com/nandanoor31/game
+At C:\Users\User\Documents\nalar\unggah.ps1:20 char:1
++ git pull --ff-only origin main 2>&1
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (From https://github.com/nandanoor31/game:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+ * branch            main       -> FETCH_HEAD
